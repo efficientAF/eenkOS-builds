@@ -1,4 +1,17 @@
 {
  "schema": 1,
- "builds": []
+ "builds": [
+  {
+   "file": "eenkos-0.1.0-x4pro-c79dfc4.bin",
+   "url": "https://github.com/efficientAF/eenkOS-builds/releases/download/x4pro-c79dfc4/eenkos-0.1.0-x4pro-c79dfc4.bin",
+   "size": 3310112,
+   "sha256": "118424dcb71221d51e23a27f4d01f12f0d36d229faa3bad8b433289099e93d7b",
+   "published": "2026-10-17T22:47:44Z",
+   "notes": "",
+   "board": "x4pro",
+   "tag": "role=main;env=x4pro;ver=0.1.0;sha=c79dfc4;time=0;",
+   "release": "x4pro-c79dfc4",
+   "pinned": false
+  }
+ ]
 }
