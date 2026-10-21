@@ -2,6 +2,20 @@
  "schema": 1,
  "builds": [
   {
+   "file": "eenkos-0.2.3-x4pro-3c3f0d3.bin",
+   "url": "https://github.com/efficientAF/eenkOS-builds/releases/download/x4pro-3c3f0d3/eenkos-0.2.3-x4pro-3c3f0d3.bin",
+   "size": 3854608,
+   "sha256": "30d2f7470b26c5444d3c27c23a106689bbe08208aee7920903beb0b99f7dcea9",
+   "published": "2026-10-21T16:30:21Z",
+   "notes": "",
+   "board": "x4pro",
+   "tag": "role=main;env=x4pro;ver=0.2.3;sha=3c3f0d3;time=1792574344;key=ec8366a358ac6a5d;",
+   "release": "x4pro-3c3f0d3",
+   "pinned": false,
+   "sig": "11117dc78b5cc9202f40f8cf30cff573774466e75a370a4aec5e3a2ccd64e493718be45d5ebc7fb7f4fa89a4ab0d0c176082e5ff40462fb15c4a026276b9f751",
+   "key": "ec8366a358ac6a5d"
+  },
+  {
    "file": "eenkos-0.2.1-x4pro-a95aa46.bin",
    "url": "https://github.com/efficientAF/eenkOS-builds/releases/download/x4pro-a95aa46/eenkos-0.2.1-x4pro-a95aa46.bin",
    "size": 3854208,
@@ -125,20 +139,6 @@
    "release": "x4pro-17fa6f7",
    "pinned": false,
    "sig": "62117aa4d423833a502f19e8514a1e695f46993d3edf271a264bb6f86f842d5d723bf1283f6a54a68a6b539c5689a142e9de3d7731e3a1212bc39d97d7e17e72",
-   "key": "ec8366a358ac6a5d"
-  },
-  {
-   "file": "eenkos-0.2.0-x4pro-aed33ed.bin",
-   "url": "https://github.com/efficientAF/eenkOS-builds/releases/download/x4pro-aed33ed/eenkos-0.2.0-x4pro-aed33ed.bin",
-   "size": 3828720,
-   "sha256": "613eaa149dede8de0a6cb4d992669fd0810d88d08708cad99ce0b422e844610f",
-   "published": "2026-10-20T02:09:22Z",
-   "notes": "",
-   "board": "x4pro",
-   "tag": "role=main;env=x4pro;ver=0.2.0;sha=aed33ed;time=1792436504;key=ec8366a358ac6a5d;",
-   "release": "x4pro-aed33ed",
-   "pinned": false,
-   "sig": "16dae8db20f43e93097a4ceb9a5e98fecfb1b91c59bb52a3841eec09f349a4092419c86ac0b4105d34e2aaba06bf52db74c6708ffddc3155ef9f9c7589459429",
    "key": "ec8366a358ac6a5d"
   }
  ]
