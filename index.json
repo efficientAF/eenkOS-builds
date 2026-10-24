@@ -2,6 +2,34 @@
  "schema": 1,
  "builds": [
   {
+   "file": "eenkos-0.2.19-x4pro-89fb3eb.bin",
+   "url": "https://github.com/efficientAF/eenkOS-builds/releases/download/x4pro-89fb3eb/eenkos-0.2.19-x4pro-89fb3eb.bin",
+   "size": 6417296,
+   "sha256": "cc41cdd8ce0db9e870478253d1d39996dc9dbd46da9d15ed4c53d65c8100a6b8",
+   "published": "2026-10-24T07:13:14Z",
+   "notes": "",
+   "board": "x4pro",
+   "tag": "role=main;env=x4pro;ver=0.2.19;sha=89fb3eb;time=1792799816;key=ec8366a358ac6a5d;",
+   "release": "x4pro-89fb3eb",
+   "pinned": false,
+   "sig": "87af1e796bec55120f93b5066b4b671e1a13d12314a6f3a03f300f39760a597d42b62fa31a1184f83636752995d3460472e5a41770ca3637efaa864fac327bab",
+   "key": "ec8366a358ac6a5d"
+  },
+  {
+   "file": "eenkos-0.2.19-x4pro-recovery-89fb3eb.bin",
+   "url": "https://github.com/efficientAF/eenkOS-builds/releases/download/x4pro-recovery-89fb3eb/eenkos-0.2.19-x4pro-recovery-89fb3eb.bin",
+   "size": 3439728,
+   "sha256": "47fcff260082d1ba0a1c84b18f83eb2bef51dc367925ce9687f3cefd5b74628c",
+   "published": "2026-10-24T07:13:18Z",
+   "notes": "",
+   "board": "x4pro",
+   "tag": "role=recovery;env=x4pro-recovery;ver=0.2.19;sha=89fb3eb;time=1792799816;key=ec8366a358ac6a5d;",
+   "release": "x4pro-recovery-89fb3eb",
+   "pinned": false,
+   "sig": "219976f2063a33b0781ae840a267fe5609c63a2d946713338cdb24096fed15dd8d067d8361f5e522ece18cb4ab28c40ea76ca1df5c8217da339b1a52ce6e1501",
+   "key": "ec8366a358ac6a5d"
+  },
+  {
    "file": "eenkos-0.2.19-x4pro-e1a725f.bin",
    "url": "https://github.com/efficientAF/eenkOS-builds/releases/download/x4pro-e1a725f/eenkos-0.2.19-x4pro-e1a725f.bin",
    "size": 6269200,
@@ -139,20 +167,6 @@
    "release": "x4pro-83f7360",
    "pinned": false,
    "sig": "b64f5de465de468ea1aa66104031861ddac19c5b27a15a0d8cacbb806ae0d6fa744e967cc3e6627412fa0a0dba44e54e357b35632b4ffc044616441b7979cb5b",
-   "key": "ec8366a358ac6a5d"
-  },
-  {
-   "file": "eenkos-0.2.13-x4pro-2c3b1fa.bin",
-   "url": "https://github.com/efficientAF/eenkOS-builds/releases/download/x4pro-2c3b1fa/eenkos-0.2.13-x4pro-2c3b1fa.bin",
-   "size": 3646544,
-   "sha256": "e6032dfc1e75abb1aa337f84fd8d8e26296b44fa395c0b12121427884ab5cad3",
-   "published": "2026-10-23T18:50:27Z",
-   "notes": "",
-   "board": "x4pro",
-   "tag": "role=main;env=x4pro;ver=0.2.13;sha=2c3b1fa;time=1792755614;key=ec8366a358ac6a5d;",
-   "release": "x4pro-2c3b1fa",
-   "pinned": false,
-   "sig": "0d0d4b526e8f701a5c603c6a9d7ca470b1c4d7edc1f3db9f1bcc69ea7d8403e7c9ba70f071d049d6defe4b55692040378a895a57271ba32e51deb7f4010abae0",
    "key": "ec8366a358ac6a5d"
   }
  ]
